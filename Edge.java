@@ -1,4 +1,3 @@
-
 public class Edge {// roads
 		public Node node1, node2;
 		//public double weight = 0;
