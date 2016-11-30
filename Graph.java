@@ -10,13 +10,6 @@ import java.util.Scanner;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-/* Author: Matthew Deng
- * Course: CSC 172
- * Lab Session: MW 1525-1640
- * Project 4
- * Date: April 13, 2016
- */
-
 public class Graph extends JPanel {
 
 	private static ArrayList<Node> nodes = new ArrayList<Node>();
