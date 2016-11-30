@@ -3,12 +3,6 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.PriorityQueue;
 
-/* Author: Matthew Deng
- * Course: CSC 172
- * Lab Session: MW 1525-1640
- * Project 4
- * Date: April 13, 2016
- */
 public class PrimsAlgorithm {
 	public Comparator<Node> distComparator = new Comparator<Node>() {
 
